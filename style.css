@@ -1,0 +1,149 @@
+
+/* food section */
+
+
+
+.spann{
+    color: crimson;
+}
+.order-sec{
+    display: flex;
+    margin-top: 60px;
+    background-image: url(images/shapes/Group\ 8448.png);
+}
+.sec-det{
+    margin-left: 80px;
+    width: 40%;
+}
+.sec-det img{
+    width: 80%;
+    margin-left: 80px;
+}
+.anchor{
+    text-decoration: none;
+   background-color: orangered;
+   padding: 8px 32px;
+   border-radius: 20px;
+   color: aliceblue;
+   font-family: 'Courier New', Courier, monospace;
+   
+}
+
+
+/* about section */
+.spann1{
+    color: crimson;
+}
+
+.order-sec1{
+    display: flex;
+    margin-top: 60px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.sec-det1{
+    margin-left: 80px;
+    width: 40%;
+    margin-top: 80px;
+    margin-left: 80px;
+    padding-left: 50px;
+}
+
+.sec-det1 img{
+    width: 80%;
+    margin-left: 80px;
+}
+
+.anchor1{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 8px 32px;
+    border-radius: 20px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+/* my recipie */
+.my-rec{
+    text-align: center;
+    padding: 80px 30px;}
+
+.half-wid1{
+    width: 50%;
+    margin: 40px;
+    padding: 60px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+            0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+            border-radius: 40px;
+   
+
+}
+.half-wid1 img{
+    width: 110%;
+    
+}
+.recepi-item{
+    display: flex;
+   
+}
+.half-wid2{
+    width: 50%;
+    margin: 40px;
+        padding: 60px;
+        border-radius: 40px;
+    
+            
+                    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+                        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+                
+
+}
+
+.half-wid2 img {
+    width: 100%;
+    height: 280px;
+    
+}
+.half-wid3{
+    width: 50%;
+    margin: 40px;
+        padding: 60px;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+                0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+                border-radius: 40px;
+
+}
+
+.half-wid3 img{
+    width: 110%;
+    height: 250px;
+}
+.sub-sec{
+    display: flex;
+    margin-left: 280px;  
+            padding: 30px;
+            box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+                0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+                margin-right: 260px;
+                padding-left: 250px;
+                border-radius: 10px;
+}
+.sub-sec1{
+    padding: 20px;
+}
+.sub-sec2{
+    padding: 20px;
+}
+.sub-sec3{
+    padding: 20px;
+}
+/* footer section */
+.footer-sec{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
